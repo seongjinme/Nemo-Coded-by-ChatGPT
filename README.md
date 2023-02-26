@@ -3,9 +3,10 @@
 "Nemo"는 Django에 기반한 PoC(Proof of Concept) 수준의 미니 SNS 애플리케이션입니다.
 
 이 애플리케이션은 "**과연 AI 챗봇과의 대화 만으로 간단한 웹 애플리케이션을 만들어낼 수 있을까**" 라는 의문을 해소하기 위한 실험의 결과로 만들어졌습니다. 
-오직 프롬프트 입력 만으로 ChatGPT에서 웹 애플리케이션 구현에 필요한 모든 코드를 생성하고 이를 실제로 동작시켜 보고자 했습니다.
+이 애플리케이션에 포함된 **모델(Models), 뷰(Views), 템플릿(Templates) 그리고 URL 패턴** 코드들은 모두 **ChatGPT에서의 프롬프트 입력 만으로 완성**되었습니다.
 
-이 애플리케이션의 **모델(Models), 뷰(Views), 템플릿(Templates) 그리고 URL 패턴**에 포함된 코드들은 모두 **ChatGPT에서의 프롬프트 입력 만으로 완성**된 것임을 밝힙니다.
+ChatGPT로 "Nemo"를 개발하는 실험 과정은 아래 블로그 글에서 자세히 확인하실 수 있습니다.
+* https://seongjin.me/experiment-of-creating-web-app-with-chatgpt/
 
 ## 주요 기능
 
