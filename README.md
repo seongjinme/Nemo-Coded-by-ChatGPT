@@ -16,6 +16,17 @@
 * 로그인한 사용자는 자신이 올린 포스트를 삭제할 수 있습니다.
 * 로그인한 사용자는 다른 사용자의 포스트에 '좋아요'를 추가하거나 취소할 수 있습니다.
 
+## 동작 화면
+### 사용자 등록 및 로그인
+![사용자 등록 및 로그인 화면](https://seongjin.me/content/images/2023/02/nemo-register-login.gif)
+
+### 포스트 작성 및 게시
+![포스트 작성 및 게시 화면](https://seongjin.me/content/images/2023/02/nemo-post-creation.gif)
+
+### 좋아요 추가 및 취소
+![좋아요 추가 및 취소 화면](https://seongjin.me/content/images/2023/02/nemo-login-like.gif)
+
+
 ## 설치 방법
 
 1. 원하시는 경로에 `git clone`으로 이 저장소의 코드들을 내려받습니다.
